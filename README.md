@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋 My name is Katerina
 
-<!--
-**KaterinaShpilevskaya/KaterinaShpilevskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: [Instagram](https://www.instagram.com/kattussha/) or [LinkedIn](https://www.linkedin.com/in/katerina-shpilevskaya-251813239/)
 
-Here are some ideas to get you started:
+<details><summary>🚀 React JS Projects</summary>
+  
+   1. [Blogofolio](https://github.com/KaterinaShpilevskaya/react-app) in developing.
+  
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details><summary>⚡️ JS Projects</summary>
+  
+   1. [Trello JS](https://katerinashpilevskaya.github.io/trello-app/)
+   2. [To-do JS](https://katerinashpilevskaya.github.io/todo-app/)
+  
+</details>
+
+  <details><summary>🌱 CSS & HTML Projects</summary>
+  
+   1. [PROTOTYPES ActiveBox](https://katerinashpilevskaya.github.io/first__layout/)
+  
+</details>
