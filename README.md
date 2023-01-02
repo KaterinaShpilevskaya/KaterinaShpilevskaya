@@ -2,9 +2,10 @@
 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/kattussha/) or [LinkedIn](https://www.linkedin.com/in/katerina-shpilevskaya-251813239/)
 
-<details><summary>🚀 React JS Projects</summary>
+<details><summary>🚀 React, Typescript JS Projects</summary>
   
    1. [Blogofolio](https://github.com/KaterinaShpilevskaya/react-app) in developing.
+   2. [Pixema](https://github.com/KaterinaShpilevskaya/Pixema) in developing.
   
 </details>
 
